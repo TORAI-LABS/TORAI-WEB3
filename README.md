@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="TORAI Logo" width="150" />
+  <img src="https://torai.fun/logo.png" alt="TORAI Logo" width="150" />
   
   # 🚀 TORAI-WEB3
   
